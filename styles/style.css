@@ -1,0 +1,19 @@
+/*------------------- 
+    Google Fonts
+-------------------*/
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Jost&display=swap');
+
+/*----------------- 
+    Utilities
+-----------------*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Jost', sans-serif;
+    /* font-family: 'EB Garamond', serif; */
+}
+
+body {
+    background-color: #583A2C;
+}
