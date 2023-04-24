@@ -47,6 +47,18 @@ body {
     font-size: 40px;
 }
 
+.navbar__logo {
+    /* background-color: red; */
+    height: 50px;
+    display: flex;
+}
+
+.navbar__logo img {
+    height: 100%;
+    margin-left: auto;
+    border-radius: 8px;
+}
+
 .navbar__links ul {
     list-style-type: none;
     display: flex;
