@@ -95,3 +95,13 @@ body {
     right: -10px;
     opacity: 1;
 }
+
+
+/*------------ 
+    Banner
+------------*/
+.banner {
+    background-image: url('/images/banner-background.png');
+    background-size: cover;
+    height: 100vh;
+}
