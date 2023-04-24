@@ -154,6 +154,15 @@ body {
     z-index: 1;
 }
 
+.banner__quote {
+    font-size: 30px;
+    line-height: 43px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 60px;
+    color: #6e523a;
+}
+
 .banner__beans {
     position: absolute;
     height: 300px;
